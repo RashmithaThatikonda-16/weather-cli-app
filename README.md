@@ -28,19 +28,20 @@ Enter city name: Hyderabad
 📍 Weather Forecast for Hyderabad (Next 3 Days):
 
 📅 Date        : 2025-07-18
-🌡️ Temperature : 30.3°C
+🌡️ Temperature : 30.0°C / 86.0°F
 💧 Humidity    : 49%
 🌬️ Wind Speed  : 3.6 m/s
 🌈 Condition   : Light Rain
 
 📅 Date        : 2025-07-19
-🌡️ Temperature : 29.7°C
+🌡️ Temperature : 29.7°C/ 82.4°F
 💧 Humidity    : 52%
 🌬️ Wind Speed  : 3.2 m/s
 🌈 Condition   : Scattered Clouds
 
 📅 Date        : 2025-07-20
-🌡️ Temperature : 31.1°C
+🌡️ Temperature : 31.1°C / 85.1°F
+
 💧 Humidity    : 46%
 🌬️ Wind Speed  : 2.9 m/s
 🌈 Condition   : Clear Sky
