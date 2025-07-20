@@ -9,10 +9,10 @@ It shows temperature, humidity, wind speed, and weather conditions for the next 
 ## 📌 Features
 
 - ✅ Takes city name as user input  
-- ✅ Uses OpenWeatherMap 5-day/3-hour forecast API  
+- ✅ Uses OpenWeatherMap 3-day forecast API  
 - ✅ Filters forecast to display **one reading per day**  
 - ✅ Displays:
-  - 🌡️ Temperature
+  - 🌡️ Temperature in **Celsius and Fahrenheit** 🌡️
   - 💧 Humidity
   - 🌬️ Wind speed
   - 🌈 Weather condition  
